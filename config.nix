@@ -4,7 +4,6 @@
       name = "marc-tools";
       paths = [
         python3
-        debugpy
         bash-completion
         neovim
         starship
